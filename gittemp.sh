@@ -1,10 +1,10 @@
 #! /bin/bash
 
-echo "enter the 1st string :" #for 1st input
+echo "enter the 1st string :"
 read st1
 a=$st1
 
-echo "enter the 2nd string :" #for 2nd input
+echo "enter the 2nd string :"
 read st2
 b=$st2
 
